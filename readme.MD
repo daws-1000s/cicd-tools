@@ -2,6 +2,8 @@
 
 Install below plugins when you started Jenkins.
 
+![alt text](expense-infra.svg)
+
 Plugins:
 * Pipeline stage view
 * Pipeline Utility Steps
